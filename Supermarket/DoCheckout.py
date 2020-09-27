@@ -17,5 +17,6 @@ def main():
     grocery_total_message = calculate_total(item_list)
     print(grocery_total_message)
 
+#my comment - NJ
 
 main()
